@@ -1,0 +1,109 @@
+{
+  "configVersion": 1,
+  "timestamp": 1649955731255,
+  "index": "/expeiment8/index.html",
+  "assetGroups": [
+    {
+      "name": "app",
+      "installMode": "prefetch",
+      "updateMode": "prefetch",
+      "cacheQueryOptions": {
+        "ignoreVary": true
+      },
+      "urls": [
+        "/expeiment8/favicon.ico",
+        "/expeiment8/index.html",
+        "/expeiment8/main.4e6643b5c91aacbe4760.js",
+        "/expeiment8/manifest.webmanifest",
+        "/expeiment8/polyfills.ca5593d37b57b81ae0e1.js",
+        "/expeiment8/runtime.2e13a8e7faee31bba87c.js",
+        "/expeiment8/service-worker.js",
+        "/expeiment8/styles.44c191f2aebc49b2fdfc.css"
+      ],
+      "patterns": []
+    },
+    {
+      "name": "assets",
+      "installMode": "lazy",
+      "updateMode": "prefetch",
+      "cacheQueryOptions": {
+        "ignoreVary": true
+      },
+      "urls": [
+        "/expeiment8/assets/back.jpg",
+        "/expeiment8/assets/burger.jpg",
+        "/expeiment8/assets/chole.jpg",
+        "/expeiment8/assets/fruit.jpg",
+        "/expeiment8/assets/ice.jpg",
+        "/expeiment8/assets/icons/icon-128x128.png",
+        "/expeiment8/assets/icons/icon-144x144.png",
+        "/expeiment8/assets/icons/icon-152x152.png",
+        "/expeiment8/assets/icons/icon-192x192.png",
+        "/expeiment8/assets/icons/icon-384x384.png",
+        "/expeiment8/assets/icons/icon-512x512.png",
+        "/expeiment8/assets/icons/icon-72x72.png",
+        "/expeiment8/assets/icons/icon-96x96.png",
+        "/expeiment8/assets/momo.jpg",
+        "/expeiment8/assets/noodles.jpg",
+        "/expeiment8/assets/pakoda.jpg",
+        "/expeiment8/assets/pancake.jpg",
+        "/expeiment8/assets/paneer.jpg",
+        "/expeiment8/assets/pasta.jpg",
+        "/expeiment8/assets/pav.jpg",
+        "/expeiment8/assets/sabzi.jpg"
+      ],
+      "patterns": []
+    }
+  ],
+  "dataGroups": [],
+  "hashTable": {
+    "/expeiment8/assets/back.jpg": "54de037f9f99782255442ebe94d14b2ffa758864",
+    "/expeiment8/assets/burger.jpg": "501264ccfa137cb2508d691359e37fbb5ab48d31",
+    "/expeiment8/assets/chole.jpg": "15adff2f2f8e812a51ec82fdba1f3bbc43bf9d96",
+    "/expeiment8/assets/fruit.jpg": "9d0b4c8f8ab14da7bca1e1761cd5675c5349aee2",
+    "/expeiment8/assets/ice.jpg": "f5830e371350e3a162e6bbd68d5c8068117a1e09",
+    "/expeiment8/assets/icons/icon-128x128.png": "dae3b6ed49bdaf4327b92531d4b5b4a5d30c7532",
+    "/expeiment8/assets/icons/icon-144x144.png": "b0bd89982e08f9bd2b642928f5391915b74799a7",
+    "/expeiment8/assets/icons/icon-152x152.png": "7479a9477815dfd9668d60f8b3b2fba709b91310",
+    "/expeiment8/assets/icons/icon-192x192.png": "1abd80d431a237a853ce38147d8c63752f10933b",
+    "/expeiment8/assets/icons/icon-384x384.png": "329749cd6393768d3131ed6304c136b1ca05f2fd",
+    "/expeiment8/assets/icons/icon-512x512.png": "559d9c4318b45a1f2b10596bbb4c960fe521dbcc",
+    "/expeiment8/assets/icons/icon-72x72.png": "c457e56089a36952cd67156f9996bc4ce54a5ed9",
+    "/expeiment8/assets/icons/icon-96x96.png": "3914125a4b445bf111c5627875fc190f560daa41",
+    "/expeiment8/assets/momo.jpg": "ec1754340a826abd713fb869c670aabe9e22df54",
+    "/expeiment8/assets/noodles.jpg": "d9b76b989372ec76386a4d29c5f56a4f5d130a3c",
+    "/expeiment8/assets/pakoda.jpg": "769a602d61caec19e26fb9cb5b5b7a468986e2be",
+    "/expeiment8/assets/pancake.jpg": "de2457909d5a7f3ad0d1d1d37c3699bdfe34364a",
+    "/expeiment8/assets/paneer.jpg": "542f1f5bab62511c585e1a8c34a7a97c26438380",
+    "/expeiment8/assets/pasta.jpg": "0f0b5459d324a9dc90ea835415e8f10b599abc46",
+    "/expeiment8/assets/pav.jpg": "f1d0b7b7b33693c6a3b87f03480f9788dfa191c3",
+    "/expeiment8/assets/sabzi.jpg": "e9b5a9d4cf944e464dab5364805e6540d340901f",
+    "/expeiment8/favicon.ico": "22f6a4a3bcaafafb0254e0f2fa4ceb89e505e8b2",
+    "/expeiment8/index.html": "0d11f4af0d78dbabbd72abe33ea807cb84a56c0f",
+    "/expeiment8/main.4e6643b5c91aacbe4760.js": "dabc16e00c380ac310fc55a8e6c63bde522188d0",
+    "/expeiment8/manifest.webmanifest": "cc4cfdaf835b815c6d4863a5a4fd682532a48633",
+    "/expeiment8/polyfills.ca5593d37b57b81ae0e1.js": "34e4367d06906fd649f6e608846ce2d3eee9f952",
+    "/expeiment8/runtime.2e13a8e7faee31bba87c.js": "b169b190084be8e50bf504473b0eb8495f4e2195",
+    "/expeiment8/service-worker.js": "ab260ea41971b7aa2fc58105008f56da232e6206",
+    "/expeiment8/styles.44c191f2aebc49b2fdfc.css": "5dcb39eb374739045afb50758ce303250af7e524"
+  },
+  "navigationUrls": [
+    {
+      "positive": true,
+      "regex": "^\\/.*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*\\.[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*\\/.*$"
+    }
+  ],
+  "navigationRequestStrategy": "performance"
+}
